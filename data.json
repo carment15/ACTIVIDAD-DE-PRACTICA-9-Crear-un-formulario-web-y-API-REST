@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Carmen Tuarez Moreira",
+      "email": "carmen@example.com",
+      "telefono": "+593 99 123 4567",
+      "edad": 28,
+      "ciudad": "Manabí",
+      "profesion": "Ingeniera de Sistemas",
+      "comentarios": "Usuario de prueba",
+      "fechaRegistro": "2025-07-25T15:30:00Z"
+    }
+  ]
+}
